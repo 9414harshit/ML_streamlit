@@ -3,4 +3,4 @@ pandas==1.1.5
 streamlit==0.73.1
 matplotlib
 scikit_learn==0.24.0
-base64
+pybase64
